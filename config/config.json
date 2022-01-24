@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe03d07fc730e6c6438ab3dccea9f3a24f5fd158e",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xab77781dc557fea5e2b26cc0b4a0f0b5b1bfd686",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "pXmfers",
+  "SYMBOL": "pXmfers",
+  "MAX_SUPPLY": 4444,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/alphafrogz",
+  "SHOW_BACKGROUND": true
+}
