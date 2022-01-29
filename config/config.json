@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0xc54d1585369bdd4df8c87799990374abbad044e4",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0xc54d1585369bdd4df8c87799990374abbad044e4",
+  "CONTRACT_ADDRESS": "0x9b5b0bd1cc766f442fbc52a7e1f343b45dbfb150",
+  "SCAN_LINK": "https://etherscan.io/token/0x9b5b0bd1cc766f442fbc52a7e1f343b45dbfb150",
   "NETWORK": {
-    "NAME": "Rinkeby",
+    "NAME": "Mainnet",
     "SYMBOL": "ETH",
-    "ID": 4
+    "ID": 1
   },
   "NFT_NAME": "Wrestling Superstars",
   "SYMBOL": "Wrestling Superstars",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.05,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/alphafrogz",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/wrestlingsuperstarsnft",
   "SHOW_BACKGROUND": true
 }
